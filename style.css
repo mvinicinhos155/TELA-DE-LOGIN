@@ -1,0 +1,96 @@
+*
+ {
+    margin: 0;
+    padding: 0;
+}
+
+body 
+{
+    background-image: url(assets/2178671-pacific-mountain-panorama-landscape-in-monochromatic-flat-illustration-vetor.jpg);
+}
+
+
+.corpo {
+    background-color: rgba(90, 86, 86, 0.521);
+    color:white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 370px;
+    position: absolute;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    border: none;
+    border-radius: 10px;
+}
+
+.titulo {
+    padding: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+
+.email {
+    height: 40px;
+    width: 300px;
+    font-size: 15px;
+    padding: 3px;
+    border: none;
+    border-radius: 5px;
+}
+
+.login {
+    height: 40px;
+    width: 300px;
+    font-size: 15px;
+    padding: 3px;
+    border: none;
+    border-radius: 5px;
+}
+#text {
+   font-size: 15px;
+   padding: 10px;
+   text-align: left;
+   padding-left: 50px;
+
+}
+.ENT {
+    height: 40px;
+    width: 70px;
+    font-size: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+.ENT:hover {
+    background-color: black;
+}
+ .tai {
+    padding-right: 200px;
+    margin-top: 20px;
+ }
+
+.esq {
+    text-align: right;
+    cursor: pointer;
+}
+
+.esq:hover {
+    text-decoration: underline;
+    color: rgb(210,105,30);
+}
+
+.Cria {
+    padding: 30px;
+    cursor: pointer;
+
+}
+
+.Cria:hover{
+    text-decoration: underline;
+    color: rgb(210,105,30);
+}
